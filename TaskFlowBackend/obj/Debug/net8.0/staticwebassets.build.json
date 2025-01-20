@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "SfttTSkELSH4Eyxl1+ZKzqYVglAdjURFFRZN1n9F7No=",
+  "Source": "TaskFlowBackend",
+  "BasePath": "_content/TaskFlowBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
